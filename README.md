@@ -9,5 +9,5 @@
 
 ### .Lua ; Python ; Discord.Js
 
-# 📚 Learning
+## 📚 Learning
 ### C#
